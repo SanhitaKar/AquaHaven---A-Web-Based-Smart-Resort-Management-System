@@ -1,1 +1,1 @@
-# -AquaHaven----A-Web-Based-Smart-Resort-Management-System
+# AquaHaven----A-Web-Based-Smart-Resort-Management-System
